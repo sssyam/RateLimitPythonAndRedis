@@ -19,7 +19,7 @@
 3. Run the file
 
 ```
-    python3 rate_limit.py
+    python3 src/rate_limit.py
 ```
 
 # Note:

@@ -16,7 +16,13 @@
     pip install -r requirements.txt
 ```
 
-3. Run the file
+3. Run docker container
+
+```
+    docker-compose -f src/docker-compose.yml up -d
+```
+
+4. Run the file
 
 ```
     python3 src/rate_limit.py
